@@ -19,8 +19,6 @@ Welcome to my personal portfolio! This website showcases my education, skills, p
 
 - **Frontend:** HTML5, CSS3  
 - **Design Tools:** Figma, Canva  
-- **Programming:** Python (for projects)  
-- **Database:** MySQL  
 - **Version Control:** Git & GitHub  
 - **Icons:** Font Awesome  
 
